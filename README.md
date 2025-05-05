@@ -25,18 +25,18 @@ Welcome to the **AI Practical Course** repository. This repository contains hand
 Each practical is organized in its respective directory:
 
 ```
-ai_practical/
-├── Practical_1_BFS/
-├── Practical_2_DFS/
-├── Practical_3_8_Queens/
-├── Practical_4_NLP_Intro/
-├── Practical_5_Text_Preprocessing/
-├── Practical_6_TF_IDF/
-├── Practical_7_Feature_Extraction/
-├── Practical_8_Spam_Filter/
-├── Practical_9_Robot_Traversal/
-├── Practical_10_Tic_Tac_Toe/
-├── Practical_11_Expert_Systems/
-├── Practical_12_Real_World_Case_Studies/
+
+├── Practical_1/
+├── Practical_2/
+├── Practical_3/
+├── Practical_4/
+├── Practical_5/
+├── Practical_6/
+├── Practical_7/
+├── Practical_8/
+├── Practical_9/
+├── Practical_10/
+├── Practical_11/
+├── Practical_12/
 └── README.md
 ```
