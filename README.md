@@ -26,17 +26,17 @@ Each practical is organized in its respective directory:
 
 ```
 
-├── Practical_1/
-├── Practical_2/
-├── Practical_3/
-├── Practical_4/
-├── Practical_5/
-├── Practical_6/
-├── Practical_7/
-├── Practical_8/
-├── Practical_9/
-├── Practical_10/
-├── Practical_11/
-├── Practical_12/
+├── Practical 1
+├── Practical 2
+├── Practical 3
+├── Practical 4
+├── Practical 5
+├── Practical 6
+├── Practical 7
+├── Practical 8
+├── Practical 9
+├── Practical 10
+├── Practical 11
+├── Practical 12
 └── README.md
 ```
